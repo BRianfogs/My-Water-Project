@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Water Changes Everything</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <h1>Water Changes Everything You Can</h1>
+    <p>Your support brings clean water and hope</p>
+  </header>
+
+  <div class="content">
+    <div class="columns">
+      <div class="column">
+        <h2>Get Involved</h2>
+        <p>Join us in making a <strong>positive impact</strong> on communities lacking access to clean water sources.</p>
+      </div>
+      <div class="column">
+        <h2>Make a Difference</h2>
+        <p>Your contribution helps provide <strong>essential resources</strong> for those in need, transforming lives and futures for many.</p>
+      </div>
+      <div class="column">
+        <h2>Act Now</h2>
+        <p>Together, we can create <strong>lasting change</strong> and ensure that every community has access to safe drinking water.</p>
+      </div>
+    </div>
+
+    <div class="image-section">
+      <img src="https://via.placeholder.com/600x400.png?text=Clean+Water+Impact" alt="Girl with clean water" />
+    </div>
+
+    <div class="cta">
+      <a href="#">Join us today and help!</a>
+    </div>
+  </div>
+</body>
+
+</html>
